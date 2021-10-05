@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="O:\Documents\ENSG3A\Genie logiciel\cours_2_cmake\correction\FirstOrganizedCMake\tests\test_hello.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="O:\Documents\ENSG3A\Genie logiciel\cours_2_cmake\correction\FirstOrganizedCMake\tests\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{BD63C7ED-3BA2-3CB3-B4EC-D58DE31D9E50}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

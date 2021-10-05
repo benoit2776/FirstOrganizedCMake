@@ -1,0 +1,8 @@
+ctest:
+quand on coche WITH TEST, ça génère un dossier RUN_TEST permettant de lancer tous les tests (ça les builds juste, on ne les lance pas).
+on peut build dans visual studio ou en ligne de commande avec la commande : "ctest -C Debug" en étant dans le répertoire build.
+
+Dans les tests, si on met return 1, ça passe pas; si on met return 0, ça passe
+
+cmake general:
+procedure sur cmake : configure, generate, open project. Apres, juste configure, configure et reload dans visual studio
